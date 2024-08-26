@@ -1,0 +1,7 @@
+How to use github
+git status
+git add hello.txt
+git status
+commit -m "Second Commit"
+git status
+git push -u origin main
